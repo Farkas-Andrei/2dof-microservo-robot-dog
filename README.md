@@ -1,2 +1,2 @@
 # 2dof-microservo-robot-dog
-Super budget quadruped robot dog build with microservo,3d printed parts and diferent modules, this project is being built as part of **Hack Club Forge**
+A small robot dog built from 8 SG90 servos, two per leg (hip and knee). An MPU-6500 handles tilt sensing, and the frame is 3D-printed from my own CAD. The main work is on the software side: I'm working out the leg positions myself and writing a walking pattern from scratch. If the robot tilts too far, it stops walking to avoid falling. Total parts cost should stay under €80.
