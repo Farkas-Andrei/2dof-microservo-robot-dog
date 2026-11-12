@@ -1,0 +1,14 @@
+Part,Quantity
+SG90 micro servo,8
+MPU-6500 IMU module,1
+Esp32,1
+3D-printed frame (PLA),1,0.00,self-designed,own CAD, printed at home
+Breadboard,1
+2s li-ion battery,1
+2s balance charge module,1
+switch,1
+PCA9685,1
+AMS1117-3.3v,1
+LM2596,1
+
+Power: a 5V buck converter feeds the eight SG90 servos trough the PCA9685. A 3.3V regulator feeds the MPU-6500 and the ESP. A small voltage display sits across the battery so I can see when it sags.
