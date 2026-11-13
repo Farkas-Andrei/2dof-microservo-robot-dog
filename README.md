@@ -1,7 +1,6 @@
 # Robot Dog — 8× SG90, 2 DOF per leg
 
-A small quadruped built from 8 SG90 micro servos, two per leg (hip  + knee). An MPU-6500 handles tilt sensing, and the frame is 3D-printed . The main work is the software.
-
+A small quadruped built from 8 SG90 micro servos, two per leg (hip  + knee). An MPU-6500 handles tilt sensing, and the frame is 3D-printed .
 <img width="526" height="407" alt="Screenshot 2026-11-13 232547" src="https://github.com/user-attachments/assets/0aaf68fb-fe19-4255-b963-06209b137a0d" />
 <img width="441" height="297" alt="Screenshot 2026-11-13 232516" src="https://github.com/user-attachments/assets/c7522354-0c76-46f4-a816-20dec3af151c" />
 <img width="302" height="476" alt="Screenshot 2026-11-13 232536" src="https://github.com/user-attachments/assets/21685fe9-17d4-4ad7-9dc1-8afbd6c54c5e" />
