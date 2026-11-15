@@ -12,4 +12,5 @@ AMS1117-3.3v,1
 LM2596,1
 xt30 conectors,1 male, 2 female
 breadboard and dupont wires
+voltage display
 Power: a 5V buck converter feeds the eight SG90 servos trough the PCA9685. A 3.3V regulator feeds the MPU-6500 and the ESP. A small voltage display sits across the battery so I can see when it sags.
