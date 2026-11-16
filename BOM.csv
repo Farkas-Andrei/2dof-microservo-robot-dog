@@ -1,16 +1,16 @@
-Part,Quantity
-SG90 micro servo,8
-MPU-6500 IMU module,1
-Esp32,1
-3D-printed frame (PLA),1,self-designed,own CAD, printed at home
-Breadboard,1
-2s li-ion battery,1
-2s balance charge module,1
-switch,1
-PCA9685,1
-AMS1117-3.3v,1
-LM2596,1
-xt30 conectors,1 male, 2 female
-breadboard and dupont wires
-voltage display
+Part,Quantity,price,link
+SG90 micro servo,8,15€,https://sigmanortec.ro/Servomotor-SG90-limit-switch-p141662062
+MPU-6500 IMU module,1,2.5€,https://sigmanortec.ro/Modul-Accelerometru-Giroscop-I2C-MPU-6500-6-axe-p136248782
+Esp32,1,6.5€,https://sigmanortec.ro/Placa-dezvoltare-ESP32-CH340C-4MB-WiFi-si-Bluetooth-p183799044
+3D-printed frame (PLA),1,-,-
+Breadboard,1,1.5€,https://sigmanortec.ro/Breadboard-400-puncte-p129872825
+2s li-ion battery,1,-,-(i forgot where i bought them from)
+2s balance charge module,1,2€,https://sigmanortec.ro/modul-incarcare-litiu-2s-3s-cu-echilibrare-type-c-ridicator-tensiune
+switch,1,0.5€,https://sigmanortec.ro/intrerupator-kcd-1-spst-onoff-23mm
+PCA9685,1,6€,https://sigmanortec.ro/Modul-PCA9685-interfata-I2C-16-CH-servo-motor-p126016016
+AMS1117-3.3v,1,0.8€,https://sigmanortec.ro/Modul-coborator-tensiune-AMS1117-3-3V-p134573098
+LM2596,1,3€,https://sigmanortec.ro/Modul-coborator-tensiune-reglabil-cu-display-LM2596-p134561747
+xt30 conectors(1male 2 female),1€,-
+breadboard and dupont wires,-,-,-
+voltage display,1,1.8€,https://sigmanortec.ro/voltmetru-digital-028-0-100vdc-3-fire-albastru
 Power: a 5V buck converter feeds the eight SG90 servos trough the PCA9685. A 3.3V regulator feeds the MPU-6500 and the ESP. A small voltage display sits across the battery so I can see when it sags.
