@@ -13,4 +13,4 @@ LM2596,1,3€,https://sigmanortec.ro/Modul-coborator-tensiune-reglabil-cu-displa
 xt30 conectors(1male 2 female),1€,-,-
 breadboard and dupont wires,-,-,-
 voltage display,1,1.8€,https://sigmanortec.ro/voltmetru-digital-028-0-100vdc-3-fire-albastru
-Power: a 5V buck converter feeds the eight SG90 servos trough the PCA9685. A 3.3V regulator feeds the MPU-6500 and the ESP. A small voltage display sits across the battery so I can see when it sags.
+
