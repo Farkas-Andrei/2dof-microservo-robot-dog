@@ -2,10 +2,10 @@
 
 A small quadruped built from 8 SG90 micro servos, two per leg (hip  + knee). An MPU-6500 handles tilt sensing, and the frame is 3D-printed .
 I try to keep the cost as low as possible while getting as many features as possible.
-<img width="526" height="407" alt="Screenshot 2026-11-13 232547" src="https://github.com/user-attachments/assets/0aaf68fb-fe19-4255-b963-06209b137a0d" />
-<img width="441" height="297" alt="Screenshot 2026-11-13 232516" src="https://github.com/user-attachments/assets/c7522354-0c76-46f4-a816-20dec3af151c" />
-<img width="302" height="476" alt="Screenshot 2026-11-13 232536" src="https://github.com/user-attachments/assets/21685fe9-17d4-4ad7-9dc1-8afbd6c54c5e" />
-<img width="563" height="267" alt="Screenshot 2026-11-13 232525" src="https://github.com/user-attachments/assets/4467e87f-11af-4c31-b217-2b4fd3486f11" />
+<img width="600" height="323" alt="Screenshot 2026-11-16 213211" src="https://github.com/user-attachments/assets/b88e6f82-b480-4b50-b44e-5da16d6a791b" />
+<img width="707" height="477" alt="Screenshot 2026-11-16 213150" src="https://github.com/user-attachments/assets/5b41d45f-2df1-40c7-a7e9-802cd6f79486" />
+<img width="621" height="280" alt="Screenshot 2026-11-16 212755" src="https://github.com/user-attachments/assets/f166a7e3-508c-4ec4-85fc-95edd000bb2c" />
+
 
 
 ## How it works
