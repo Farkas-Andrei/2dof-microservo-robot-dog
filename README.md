@@ -27,8 +27,8 @@ Power comes from a 5V buck converter for the eight servos and the controller, an
 | PCA9685 | 1 | €6.00 | [SigmaNortec](https://sigmanortec.ro/Modul-PCA9685-interfata-I2C-16-CH-servo-motor-p126016016) |  |
 | AMS1117-3.3V | 1 | €0.80 | [SigmaNortec](https://sigmanortec.ro/Modul-coborator-tensiune-AMS1117-3-3V-p134573098) |  |
 | LM2596 | 1 | €3.00 | [SigmaNortec](https://sigmanortec.ro/Modul-coborator-tensiune-reglabil-cu-display-LM2596-p134561747) |  |
-| XT30 connectors | 1 male, 2 female | €1.50 | - | s |
-| Breadboard and Dupont wires | - | - | - | - |
+| XT30 connectors | 1 male, 2 female | €1.50 | - |  |
+| Breadboard and Dupont wires | - | - | - |  |
 | Voltage display | 1 | €1.80 | [SigmaNortec](https://sigmanortec.ro/voltmetru-digital-028-0-100vdc-3-fire-albastru) |  |
 
 
