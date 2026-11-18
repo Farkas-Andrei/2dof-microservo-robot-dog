@@ -13,7 +13,7 @@ I try to keep the cost as low as possible while getting as many features as poss
 Each leg has two joints, so I can place the foot anywhere in a vertical plane by solving for the hip and knee angles from a target position. The walking pattern moves one leg at a time and shifts the body to keep the centre of mass over the supporting legs.
 
 Power comes from a 5V buck converter for the eight servos and the controller, and a 3.3V regulator for the MPU-6500. A small voltage display sits across the battery so I can see when it sags.
-(Electronics scheme along with the finish cad will arrive soon, the parts list is should be finished)
+(Electronics scheme along with the finish cad  and building instructions will arrive soon, the parts list is should be finished)
 | Part | Quantity | Price (total) | Link | Notes |
 | :--- | :---: | ---: | :--- | :--- |
 | SG90 micro servo | 8 | €15.00 | [SigmaNortec](https://sigmanortec.ro/Servomotor-SG90-limit-switch-p141662062) | |
