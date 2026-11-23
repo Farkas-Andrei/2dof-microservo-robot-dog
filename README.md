@@ -14,25 +14,23 @@ Each leg has two joints, so I can place the foot anywhere in a vertical plane by
 
 Power comes from a 5V buck converter for the eight servos and the controller, and a 3.3V regulator for the MPU-6500. A small voltage display sits across the battery so I can see when it sags.
 (Electronics scheme along with the finish cad  and building instructions will arrive soon, the parts list is should be finished)
-| Part | Quantity | Price (total) | Link | Notes |
-| :--- | :---: | ---: | :--- | :--- |
-| SG90 micro servo | 8 | €15.00 | [SigmaNortec](https://sigmanortec.ro/Servomotor-SG90-limit-switch-p141662062) | |
-| MPU-6500 IMU module | 1 | €2.50 | [SigmaNortec](https://sigmanortec.ro/Modul-Accelerometru-Giroscop-I2C-MPU-6500-6-axe-p136248782) |  |
-| ESP32 | 1 | €6.50 | [SigmaNortec](https://sigmanortec.ro/Placa-dezvoltare-ESP32-CH340C-4MB-WiFi-si-Bluetooth-p183799044) |  |
-| 3D-printed frame (PLA) | 1 | - | - | Self-made |
-| Breadboard | 1 | €1.50 | [SigmaNortec](https://sigmanortec.ro/Breadboard-400-puncte-p129872825) |  |
-| 2S Li-ion battery | 1 | €6.5 | [AliExpress](https://www.aliexpress.com/item/1005005797608566.html?spm=a2g0o.order_list.order_list_main.50.724b1802llJcjF) | i don't recommend the charger bundle as mine came broken/ any s2 li-po/li-ion should work |
-| 2S balance charge module | 1 | €2.00 | [SigmaNortec](https://sigmanortec.ro/modul-incarcare-litiu-2s-3s-cu-echilibrare-type-c-ridicator-tensiune) |  |
-| Switch | 1 | €0.50 | [SigmaNortec](https://sigmanortec.ro/intrerupator-kcd-1-spst-onoff-23mm) |  |
-| PCA9685 | 1 | €6.00 | [SigmaNortec](https://sigmanortec.ro/Modul-PCA9685-interfata-I2C-16-CH-servo-motor-p126016016) |  |
-| AMS1117-3.3V | 1 | €0.80 | [SigmaNortec](https://sigmanortec.ro/Modul-coborator-tensiune-AMS1117-3-3V-p134573098) |  |
-| LM2596 | 1 | €3.00 | [SigmaNortec](https://sigmanortec.ro/Modul-coborator-tensiune-reglabil-cu-display-LM2596-p134561747) |  |
-| XT30 connectors | 1 male, 2 female | €1.50 | - |  |
-| Breadboard and Dupont wires | - | - | - |  |
-| Voltage display | 1 | €1.80 | [SigmaNortec](https://sigmanortec.ro/voltmetru-digital-028-0-100vdc-3-fire-albastru) |  |
+| Part | Quantity | Price (EUR) | Price (USD) | Link | Notes |
+| :--- | :---: | ---: | ---: | :--- | :--- |
+| SG90 micro servo | 8 | €15.00 | $16.50 | [SigmaNortec](https://sigmanortec.ro/Servomotor-SG90-limit-switch-p141662062) | |
+| MPU-6500 IMU module | 1 | €2.50 | $2.75 | [SigmaNortec](https://sigmanortec.ro/Modul-Accelerometru-Giroscop-I2C-MPU-6500-6-axe-p136248782) | |
+| ESP32 | 1 | €6.50 | $7.15 | [SigmaNortec](https://sigmanortec.ro/Placa-dezvoltare-ESP32-CH340C-4MB-WiFi-si-Bluetooth-p183799044) | |
+| 3D-printed frame (PLA) | 1 | - | - | - | Self-made |
+| Breadboard | 1 | €1.50 | $1.65 | [SigmaNortec](https://sigmanortec.ro/Breadboard-400-puncte-p129872825) | |
+| 2S Li-ion battery | 1 | €6.5 | $7.15 | [AliExpress](https://www.aliexpress.com/item/1005005797608566.html?spm=a2g0o.order_list.order_list_main.50.724b1802llJcjF) | i don't recommend the charger bundle as mine came broken/ any s2 li-po/li-ion should work |
+| 2S balance charge module | 1 | €2.00 | $2.20 | [SigmaNortec](https://sigmanortec.ro/modul-incarcare-litiu-2s-3s-cu-echilibrare-type-c-ridicator-tensiune) | |
+| Switch | 1 | €0.50 | $0.55 | [SigmaNortec](https://sigmanortec.ro/intrerupator-kcd-1-spst-onoff-23mm) | |
+| PCA9685 | 1 | €6.00 | $6.60 | [SigmaNortec](https://sigmanortec.ro/Modul-PCA9685-interfata-I2C-16-CH-servo-motor-p126016016) | |
+| AMS1117-3.3V | 1 | €0.80 | $0.88 | [SigmaNortec](https://sigmanortec.ro/Modul-coborator-tensiune-AMS1117-3-3V-p134573098) | |
+| LM2596 | 1 | €3.00 | $3.30 | [SigmaNortec](https://sigmanortec.ro/Modul-coborator-tensiune-reglabil-cu-display-LM2596-p134561747) | |
+| XT30 connectors | 1 male, 2 female | €1.50 | $1.65 | - | |
+| Breadboard and Dupont wires | - | - | - | - | |
+| Voltage display | 1 | €1.80 | $1.98 | [SigmaNortec](https://sigmanortec.ro/voltmetru-digital-028-0-100vdc-3-fire-albastru) | |
 
+**Total cost:** €47.60 **($52.36 USD)** (excluding AliExpress delivery fee)
 
-
-[SigmaNortec](https://sigmanortec.ro/en/) has free delivery in Romania via EasyBox on any order over 130 lei (about 25 euro)
-The delivery fee for the battery is about 10€ but it might get put back in the choice (cheap/free shipping) section
-Total cost: €47.60 (excluding [AliExpres](https://www.aliexpress.com/?spm=a2g0o.order_list.logo.1.724b1802llJcjF) delivery fee)
+The delivery fee for the battery is about €10 (~$11.00), but it might get put back in the choice (cheap/free shipping) section. SigmaNortec offers free delivery in Romania via EasyBox on any order over 130 lei (about €25 / ~$27.50).
